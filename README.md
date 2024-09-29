@@ -7,8 +7,8 @@ Tokyo Olympics Analysis Using AZURE platform
 
 This project demonstrates an end-to-end data pipeline using Azure services for data ingestion, transformation, and analytics. The pipeline is designed to facilitate data flow from various sources into a data lake, transform the data, and finally visualize it through dashboards using Power BI.
 
-![Data Architecture](<img width="566" alt="Azure" src="https://github.com/user-attachments/assets/54616301-2fa3-4625-b841-53e87b14fd12">
-)
+<img width="566" alt="Azure" src="https://github.com/user-attachments/assets/5f8ff2ff-29ec-42a2-ba6c-b252e9c74ba2">
+
 
 ## Architecture
 
