@@ -45,17 +45,36 @@ This project demonstrates an end-to-end data pipeline using Azure services for d
 1. **Data Ingestion:**
    - Data from various sources is ingested using Azure Data Factory and stored in a raw format in Data Lake Gen 2.
 
+
+![Ingestion using APIs](https://github.com/user-attachments/assets/a342b1db-5ccb-4c78-9d35-3cc5cc8b5fec)
+
 2. **Data Transformation:**
    - Azure Databricks processes the raw data, performing transformations such as filtering, aggregation, and data enrichment.
+
+
+![Databriks 1](https://github.com/user-attachments/assets/4c0ee840-53ee-4b10-acd4-4dbbeba8d4ac)
+
 
 3. **Data Storage:**
    - Transformed data is stored in Data Lake Gen 2, making it ready for analytics and reporting.
 
+
+![Screenshot 2024-10-04 093918](https://github.com/user-attachments/assets/9c9fe14e-fbd9-45cb-8abd-5f785ee81a27)
+
+
 4. **Data Analytics:**
    - Azure Synapse Analytics is used for querying and analyzing the transformed data, creating a bridge between big data and data warehousing.
 
+
+![synapse2](https://github.com/user-attachments/assets/653a0f51-f598-4652-9031-c1f8b8f074f5)
+
+
 5. **Data Visualization:**
    - Visualization tools such as Power BI, Looker Studio, and Tableau connect to Azure Synapse Analytics for creating dashboards that provide insights into the data.
+
+
+![Screenshot 2024-10-04 093631](https://github.com/user-attachments/assets/f2ed867c-92b4-4bb5-af8f-c92dec6ac08c)
+
 
 ## Prerequisites
 
